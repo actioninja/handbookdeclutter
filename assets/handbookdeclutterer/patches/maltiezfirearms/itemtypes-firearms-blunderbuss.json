@@ -1,0 +1,14 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": {
+      "handbook": {
+        "groupBy": ["firearm-blunderbuss-iron", "firearm-blunderbuss-meteoriciron", "firearm-blunderbuss-rusted"]
+      }
+    },
+    "file": "maltiezfirearms:itemtypes/firearms/blunderbuss.json",
+    "dependsOn": [{ "modid": "maltiezfirearms" }],
+    "side": "server"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupBy": ["blockswapper-*"] } },
+    "file": "chiseltools:itemtypes/blockswapper.json",
+    "dependsOn": [{ "modid": "chiseltools" }],
+    "side": "server"
+  }
+]

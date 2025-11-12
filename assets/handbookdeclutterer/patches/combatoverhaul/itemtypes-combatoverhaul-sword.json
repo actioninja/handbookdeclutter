@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook",
+    "value": { "groupBy": ["blade-*"] },
+    "file": "game:itemtypes/combatoverhaul/sword.json",
+    "dependsOn": [{ "modid": "combatoverhaul" }],
+    "side": "server"
+  }
+]

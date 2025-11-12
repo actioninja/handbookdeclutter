@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupBy": ["henbox-*", "henbox"] } },
+    "file": "vanvar:blocktypes/wood/henbox.json",
+    "dependsOn": [{ "modid": "vanvar" }],
+    "side": "server"
+  }
+]

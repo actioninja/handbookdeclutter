@@ -1,0 +1,9 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupBy": ["daubraw-*"] } },
+    "file": "game:itemtypes/resource/daub.json",
+    "side": "server"
+  }
+]

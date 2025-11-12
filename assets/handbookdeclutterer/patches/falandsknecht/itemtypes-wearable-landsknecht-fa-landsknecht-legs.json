@@ -1,0 +1,11 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["fa-landsknecht-legs-*"],
+    "file": "falandsknecht:itemtypes/wearable/landsknecht/fa-landsknecht-legs.json",
+    "dependsOn": [{"modid": "falandsknecht"}],
+    "side": "server"
+  }
+
+]

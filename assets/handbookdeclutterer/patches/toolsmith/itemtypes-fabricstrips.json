@@ -1,0 +1,12 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupByByType":{
+      "*": ["fabricstrips-{material}"]
+    } } },
+    "file": "toolsmith:itemtypes/fabricstrips.json",
+    "dependsOn": [{ "modid": "toolsmith" }],
+    "side": "server"
+  }
+]

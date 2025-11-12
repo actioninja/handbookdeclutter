@@ -1,0 +1,12 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupByByType":{
+      "*": ["grindstone-*"]
+    } } },
+    "file": "toolsmith:blocktypes/grindstone.json",
+    "dependsOn": [{ "modid": "toolsmith" }],
+    "side": "server"
+  }
+]

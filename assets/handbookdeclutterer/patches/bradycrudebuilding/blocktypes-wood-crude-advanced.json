@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupBy": ["door-crude-advanced-*"] } },
+    "file": "bradycrudebuilding:blocktypes/wood/crude-advanced.json",
+    "dependsOn": [{ "modid": "bradycrudebuilding" }],
+    "side": "server"
+  }
+]

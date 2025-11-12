@@ -1,0 +1,14 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": {
+      "handbook": {
+        "groupBy": ["bayonet-*"]
+      }
+    },
+    "file": "maltiezfirearms:itemtypes/bayonet.json",
+    "dependsOn": [{ "modid": "maltiezfirearms" }],
+    "side": "server"
+  }
+]

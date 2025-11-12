@@ -1,0 +1,10 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["sword-short-*"],
+    "file": "armory:itemtypes/weapons/sword-short.json",
+    "dependsOn": [{ "modid": "armory" }],
+    "side": "server"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupBy": ["1x1woodenshutters-*-*-{state}-*"] } },
+    "file": "slidingwoodenshutters:blocktypes/1x1woodenshutters.json",
+    "dependsOn": [{ "modid": "woodenshuttersandmore" }],
+    "side": "server"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["crackedrock-*"],
+    "file": "game:blocktypes/stone/crackedrock.json",
+    "side": "server"
+  }
+]

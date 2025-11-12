@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupBy": ["pulverizerframe-*"] } },
+    "file": "vanvar:blocktypes/wood/mechanics/pulverizerframe.json",
+    "dependsOn": [{ "modid": "vanvar" }],
+    "side": "server"
+  }
+]

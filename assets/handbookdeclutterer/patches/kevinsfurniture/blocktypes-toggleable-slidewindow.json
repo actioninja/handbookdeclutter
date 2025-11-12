@@ -1,0 +1,14 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": {
+      "handbook": {
+        "groupBy": ["slidewindow-*"]
+      }
+    },
+    "file": "kevinsfurniture:blocktypes/toggleable/slidewindow.json",
+    "dependsOn": [{ "modid": "kevinsfurniture" }],
+    "side": "server"
+  }
+]

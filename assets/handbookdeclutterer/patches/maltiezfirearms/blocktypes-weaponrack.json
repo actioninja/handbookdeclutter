@@ -1,0 +1,24 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": {
+      "handbook": {
+        "groupBy": [
+          "wallmountdouble-*"
+        ]
+      }
+    },
+    "file": "maltiezfirearms:blocktypes/weaponrack.json",
+    "dependsOn": [{ "modid": "maltiezfirearms" }],
+    "side": "server"
+  },
+  {
+    "op": "replace",
+    "path": "/creativeinventory/general",
+    "value": ["*-east"],
+    "file": "maltiezfirearms:blocktypes/weaponrack.json",
+    "dependsOn": [{ "modid": "maltiezfirearms"  }],
+    "side": "server"
+  }
+]

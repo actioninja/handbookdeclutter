@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupBy": ["pole-flag-ground*"] } },
+    "file": "heraldrybanners:blocktypes/flagpole.json",
+    "dependsOn": [{ "modid": "heraldrybanners" }],
+    "side": "server"
+  }
+]

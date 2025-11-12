@@ -1,0 +1,16 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": {
+      "handbook": {
+        "groupByByType": {
+          "*": ["ingotmold-*-{materialtype}"]
+        }
+      }
+    },
+    "file": "expandedmolds:blocktypes/clay/mold/ingotmold.json",
+    "dependsOn": [{ "modid": "expandedmolds" }],
+    "side": "server"
+  }
+]

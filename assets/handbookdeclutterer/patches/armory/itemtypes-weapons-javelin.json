@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook",
+    "value": { "groupBy": ["javelin-*"] },
+    "file": "armory:itemtypes/weapons/javelin.json",
+    "dependsOn": [{ "modid": "armory" }],
+    "side": "server"
+  }
+]

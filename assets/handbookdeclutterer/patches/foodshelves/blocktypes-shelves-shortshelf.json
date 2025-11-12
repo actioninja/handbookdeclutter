@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook",
+    "value": { "groupBy": ["shortshelf-*"] },
+    "file": "foodshelves:blocktypes/shelves/shortshelf.json",
+    "dependsOn": [{ "modid": "foodshelves" }],
+    "side": "server"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": {
+      "handbook": {
+        "groupBy": ["firearm-musket-*"]
+      }
+    },
+    "file": "maltiezfirearms:itemtypes/firearms/musket.json",
+    "dependsOn": [{ "modid": "maltiezfirearms" }],
+    "side": "server"
+  }
+]

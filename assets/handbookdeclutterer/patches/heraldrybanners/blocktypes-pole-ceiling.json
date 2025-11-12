@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupBy": ["pole-banner-ceiling-*"] } },
+    "file": "heraldrybanners:blocktypes/pole-ceiling.json",
+    "dependsOn": [{ "modid": "heraldrybanners" }],
+    "side": "server"
+  }
+]

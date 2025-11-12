@@ -1,0 +1,14 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": {
+      "handbook": {
+        "groupBy": ["fishingspear-*"]
+      }
+    },
+    "file": "primitivesurvival:itemtypes/fishing/fishingspear.json",
+    "dependsOn": [{ "modid": "primitivesurvival" }],
+    "side": "server"
+  }
+]

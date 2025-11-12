@@ -1,0 +1,18 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook",
+    "value": {
+      "groupByByType": {
+        "*-tailored-*": ["armor-{bodypart}-tailored-*"],
+        "*-brigandine-*": ["armor-{bodypart}-brigandine-*"],
+        "*-chain-*": ["armor-{bodypart}-chain-*"],
+        "*-scale-*": ["armor-{bodypart}-scale-*"],
+        "*-lamellar-*": ["armor-{bodypart}-lamellar-*"],
+        "*-plate-*": ["armor-{bodypart}-plate-*"]
+      }
+    },
+    "file": "game:itemtypes/wearable/armor.json",
+    "side": "server"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook",
+    "value": {
+      "groupBy": ["butcherhookceiling-*"]
+    },
+    "file": "butchering:blocktypes/butcherhookceiling.json",
+    "dependsOn": [{ "modid": "butchering" }],
+    "side": "server"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook",
+    "value": { "groupBy": ["bow-*"] },
+    "file": "game:itemtypes/combatoverhaul/bow.json",
+    "dependsOn": [{ "modid": "combatoverhaul" }],
+    "side": "server"
+  }
+]

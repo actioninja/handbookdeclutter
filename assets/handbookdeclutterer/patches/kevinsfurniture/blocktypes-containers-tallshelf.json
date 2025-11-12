@@ -1,0 +1,14 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": {
+      "handbook": {
+        "groupBy": ["tallshelf-*"]
+      }
+    },
+    "file": "kevinsfurniture:blocktypes/containers/tallshelf.json",
+    "dependsOn": [{ "modid": "kevinsfurniture" }],
+    "side": "server"
+  }
+]

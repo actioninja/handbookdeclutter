@@ -1,0 +1,10 @@
+[
+  {
+		"op": "addMerge",
+		"path": "/attributes",
+		"file": "viesblocks:blocktypes/chimney/cobblestonechimney.json",
+		"value": { "handbook": { "groupBy": ["cobblestonechimney-*"] } },
+		"dependsOn": [{"modid": "viesblocks"}],
+    "side": "server"
+	}
+]

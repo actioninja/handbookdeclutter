@@ -1,0 +1,11 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["fa-viking-head-{style}-*"],
+    "file": "faviking:itemtypes/wearable/viking/fa-viking-head.json",
+    "dependsOn": [{"modid": "faviking"}],
+    "side": "server"
+  }
+
+]

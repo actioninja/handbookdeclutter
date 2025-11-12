@@ -1,0 +1,10 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["sword-long-*"],
+    "file": "armory:itemtypes/weapons/sword-long.json",
+    "dependsOn": [{ "modid": "armory" }],
+    "side": "server"
+  }
+]

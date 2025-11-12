@@ -1,0 +1,9 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook",
+    "value": { "groupBy": ["clutter"] },
+    "file": "game:blocktypes/clutter.json",
+    "side": "server"
+  }
+]

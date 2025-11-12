@@ -1,0 +1,10 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["quarterstaff-*"],
+    "file": "armory:itemtypes/weapons/quarterstaff.json",
+    "dependsOn": [{ "modid": "armory" }],
+    "side": "server"
+  }
+]

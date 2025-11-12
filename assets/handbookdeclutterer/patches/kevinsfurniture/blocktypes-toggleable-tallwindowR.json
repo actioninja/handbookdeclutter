@@ -1,0 +1,14 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": {
+      "handbook": {
+        "groupBy": ["tallwindowR-*"]
+      }
+    },
+    "file": "kevinsfurniture:blocktypes/toggleable/tallwindowR.json",
+    "dependsOn": [{ "modid": "kevinsfurniture" }],
+    "side": "server"
+  }
+]

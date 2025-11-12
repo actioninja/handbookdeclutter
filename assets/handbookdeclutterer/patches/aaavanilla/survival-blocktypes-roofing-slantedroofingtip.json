@@ -1,0 +1,9 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook",
+    "value": { "groupBy": ["slantedroofingtip-*"] },
+    "file": "game:blocktypes/roofing/slantedroofingtip.json",
+    "side": "server"
+  }
+]

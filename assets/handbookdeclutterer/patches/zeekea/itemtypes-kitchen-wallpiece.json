@@ -1,0 +1,10 @@
+[
+  {
+		"op": "replace",
+		"path": "/attributes/handbook/groupBy",
+		"file": "zeekea:itemtypes/kitchen/wallpiece.json",
+		"value":  ["wallpiece-{size}-*"],
+		"dependsOn": [{"modid": "zeekea"}],
+    "side": "server"
+	}
+]

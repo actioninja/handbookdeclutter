@@ -1,0 +1,14 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": {
+      "handbook": {
+        "groupBy": ["bloodbread-*"]
+      }
+    },
+    "file": "butchering:itemtypes/food/bloodbread.json",
+    "dependsOn": [{ "modid": "butchering" }],
+    "side": "server"
+  }
+]

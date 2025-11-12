@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupBy": ["coinpress-*"] } },
+    "file": "coinage:blocktypes/wood/coinpress.json",
+    "dependsOn": [{ "modid": "coinage" }],
+    "side": "server"
+  }
+]

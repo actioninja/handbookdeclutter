@@ -1,0 +1,9 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook",
+    "value": { "groupBy": ["slantedroofingcornerouter-*"] },
+    "file": "game:blocktypes/roofing/slantedroofingcorner-outer.json",
+    "side": "server"
+  }
+]

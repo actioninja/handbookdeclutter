@@ -1,0 +1,55 @@
+[
+  {
+    "op": "addmerge",
+    "path": "/attributes",
+    "value": {
+	"canChisel": true,
+	"chiselShapeFromCollisionBox": true,
+	"chiselShapeFromCollisionBox": false
+    },
+    "file": "game:blocktypes/glass/slab-plain.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/textures/inside-north",
+    "value": { "base": "game:block/glass/plain" },
+    "file": "game:blocktypes/glass/slab-plain.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/textures/inside-east",
+    "value": { "base": "game:block/glass/plain" },
+    "file": "game:blocktypes/glass/slab-plain.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/textures/inside-south",
+    "value": { "base": "game:block/glass/plain" },
+    "file": "game:blocktypes/glass/slab-plain.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/textures/inside-west",
+    "value": { "base": "game:block/glass/plain" },
+    "file": "game:blocktypes/glass/slab-plain.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/textures/inside-up",
+    "value": { "base": "game:block/glass/plain" },
+    "file": "game:blocktypes/glass/slab-plain.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/textures/inside-down",
+    "value": { "base": "game:block/glass/plain" },
+    "file": "game:blocktypes/glass/slab-plain.json",
+    "side": "Server"
+  }
+]

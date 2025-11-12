@@ -1,0 +1,11 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["fa-greenwich-legs-*"],
+    "file": "fagreenwich:itemtypes/wearable/greenwich/fa-greenwich-legs.json",
+    "dependsOn": [{"modid": "fagreenwich"}],
+    "side": "server"
+  }
+
+]

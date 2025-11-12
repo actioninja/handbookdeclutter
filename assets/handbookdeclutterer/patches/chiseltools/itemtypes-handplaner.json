@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupBy": ["handplaner-*"] } },
+    "file": "chiseltools:itemtypes/handplaner.json",
+    "dependsOn": [{ "modid": "chiseltools" }],
+    "side": "server"
+  }
+]

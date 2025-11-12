@@ -1,0 +1,16 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": {
+      "handbook": {
+        "groupBy": [
+          "slug-*"
+        ]
+      }
+    },
+    "file": "maltiezfirearms:itemtypes/ammunition/slug.json",
+    "dependsOn": [{ "modid": "maltiezfirearms" }],
+    "side": "server"
+  }
+]

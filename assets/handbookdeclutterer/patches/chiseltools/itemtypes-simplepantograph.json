@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupBy": ["simplepantograph-*"] } },
+    "file": "chiseltools:itemtypes/simplepantograph.json",
+    "dependsOn": [{ "modid": "chiseltools" }],
+    "side": "server"
+  }
+]

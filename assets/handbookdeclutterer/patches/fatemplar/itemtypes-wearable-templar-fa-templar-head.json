@@ -1,0 +1,11 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["fa-templar-head-{style}-*"],
+    "file": "fatemplar:itemtypes/wearable/templar/fa-templar-head.json",
+    "dependsOn": [{"modid": "fatemplar"}],
+    "side": "server"
+  }
+
+]

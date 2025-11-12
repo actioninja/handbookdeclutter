@@ -1,0 +1,14 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": {
+      "handbook": {
+        "groupBy": ["wardrobe-*"]
+      }
+    },
+    "file": "kevinsfurniture:blocktypes/containers/wardrobe.json",
+    "dependsOn": [{ "modid": "kevinsfurniture" }],
+    "side": "server"
+  }
+]

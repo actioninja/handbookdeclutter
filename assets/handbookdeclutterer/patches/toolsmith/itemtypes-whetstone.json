@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupBy": ["whetstone-*"] } },
+    "file": "toolsmith:itemtypes/whetstone.json",
+    "dependsOn": [{ "modid": "toolsmith" }],
+    "side": "server"
+  }
+]

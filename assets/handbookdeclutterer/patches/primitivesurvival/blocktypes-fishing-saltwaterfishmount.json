@@ -1,0 +1,14 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": {
+      "handbook": {
+        "groupBy": ["fishmount-*"]
+      }
+    },
+    "file": "primitivesurvival:blocktypes/fishing/saltwaterfishmount.json",
+    "dependsOn": [{ "modid": "primitivesurvival" }],
+    "side": "server"
+  }
+]

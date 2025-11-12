@@ -1,0 +1,16 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": {
+      "handbook": {
+        "groupBy": [
+          "vice-*"
+        ]
+      }
+    },
+    "file": "maltiezfirearms:blocktypes/vice.json",
+    "dependsOn": [{ "modid": "maltiezfirearms" }],
+    "side": "server"
+  }
+]

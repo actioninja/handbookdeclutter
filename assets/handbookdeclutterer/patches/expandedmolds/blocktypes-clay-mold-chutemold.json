@@ -1,0 +1,16 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": {
+      "handbook": {
+        "groupByByType": {
+          "*": ["chutesectionmold-*-{materialtype}"]
+        }
+      }
+    },
+    "file": "expandedmolds:blocktypes/clay/mold/chutesectionmold.json",
+    "dependsOn": [{ "modid": "expandedmolds" }],
+    "side": "server"
+  }
+]

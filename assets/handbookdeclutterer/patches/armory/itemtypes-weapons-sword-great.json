@@ -1,0 +1,10 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["sword-great-*"],
+    "file": "armory:itemtypes/weapons/sword-great.json",
+    "dependsOn": [{ "modid": "armory" }],
+    "side": "server"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupBy": ["blanketrack-*"] } },
+    "file": "purposefulstorage:blocktypes/clothes/blanketrack.json",
+    "dependsOn": [{ "modid": "purposefulstorage" }],
+    "side": "server"
+  }
+]

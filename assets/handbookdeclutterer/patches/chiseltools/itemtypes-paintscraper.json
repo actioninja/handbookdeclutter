@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupBy": ["paintscraper-*"] } },
+    "file": "chiseltools:itemtypes/paintscraper.json",
+    "dependsOn": [{ "modid": "chiseltools" }],
+    "side": "server"
+  }
+]

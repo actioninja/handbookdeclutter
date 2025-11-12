@@ -1,0 +1,9 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook",
+    "value": { "groupBy": ["amethyst", "clearquartz", "rosequartz", "smokyquartz", "ore-olivine"] },
+    "file": "game:itemtypes/resource/quartz/amethyst.json",
+    "side": "server"
+  }
+]

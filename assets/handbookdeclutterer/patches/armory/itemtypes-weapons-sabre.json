@@ -1,0 +1,10 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["sabre-*"],
+    "file": "armory:itemtypes/weapons/sabre.json",
+    "dependsOn": [{ "modid": "armory" }],
+    "side": "server"
+  }
+]

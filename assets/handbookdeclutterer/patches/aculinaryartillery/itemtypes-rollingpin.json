@@ -1,0 +1,10 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["rollingpin-*"],
+    "file": "aculinaryartillery:itemtypes/rollingpin.json",
+    "dependsOn": [{ "modid": "aculinaryartillery" }],
+    "side": "server"
+  }
+]

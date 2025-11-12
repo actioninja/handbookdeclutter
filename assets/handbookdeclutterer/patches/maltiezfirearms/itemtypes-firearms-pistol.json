@@ -1,0 +1,14 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": {
+      "handbook": {
+        "groupBy": ["firearm-pistol-tinbronze", "firearm-pistol-bismuthbronze", "firearm-pistol-blackbronze", "firearm-pistol-tarnished"]
+      }
+    },
+    "file": "maltiezfirearms:itemtypes/firearms/pistol.json",
+    "dependsOn": [{ "modid": "maltiezfirearms" }],
+    "side": "server"
+  }
+]

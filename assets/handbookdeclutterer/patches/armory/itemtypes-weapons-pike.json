@@ -1,0 +1,10 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["pike-*"],
+    "file": "armory:itemtypes/weapons/pike.json",
+    "dependsOn": [{ "modid": "armory" }],
+    "side": "server"
+  }
+]

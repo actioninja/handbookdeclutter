@@ -1,0 +1,14 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": {
+      "handbook": {
+        "groupBy": ["firearm-blunderbus-steel"]
+      }
+    },
+    "file": "maltiezfirearms:itemtypes/firearms/blunderbuss-flintlock.json",
+    "dependsOn": [{ "modid": "maltiezfirearms" }],
+    "side": "server"
+  }
+]

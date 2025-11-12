@@ -1,0 +1,9 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["ingot-*"],
+    "file": "game:itemtypes/resource/ingot.json",
+    "side": "server"
+  }
+]

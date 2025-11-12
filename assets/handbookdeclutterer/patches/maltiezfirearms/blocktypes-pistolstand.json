@@ -1,0 +1,16 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": {
+      "handbook": {
+        "groupBy": [
+          "pistolstand-*"
+        ]
+      }
+    },
+    "file": "maltiezfirearms:blocktypes/pistolstand.json",
+    "dependsOn": [{ "modid": "maltiezfirearms" }],
+    "side": "server"
+  }
+]

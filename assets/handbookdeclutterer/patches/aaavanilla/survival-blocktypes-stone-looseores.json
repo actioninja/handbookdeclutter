@@ -1,0 +1,16 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": {},
+    "file": "game:blocktypes/stone/looseores.json",
+    "side": "server"
+  },
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook",
+    "value": { "groupBy": ["looseores-{ore}-*-free"] },
+    "file": "game:blocktypes/stone/looseores.json",
+    "side": "server"
+  }
+]

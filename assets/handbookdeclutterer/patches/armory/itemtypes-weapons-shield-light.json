@@ -1,0 +1,10 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["shield-light-*"],
+    "file": "armory:itemtypes/weapons/shield-light.json",
+    "dependsOn": [{ "modid": "armory" }],
+    "side": "server"
+  }
+]

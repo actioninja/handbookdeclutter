@@ -1,0 +1,9 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupBy": ["looseflints-*"] } },
+    "file": "game:blocktypes/stone/looseflints.json",
+    "side": "server"
+  }
+]

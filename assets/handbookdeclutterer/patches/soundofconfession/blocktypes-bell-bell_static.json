@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["bellstatic-*-{size}-*"],
+    "file": "confession:blocktypes/bell/bell_static.json",
+    "dependsOn": [{ "modid": "soundofconfession" }],
+    "side": "server"
+  }
+]

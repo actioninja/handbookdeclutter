@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupBy": ["glidermount-*"] } },
+    "file": "purposefulstorage:blocktypes/general/glidermount.json",
+    "dependsOn": [{ "modid": "purposefulstorage" }],
+    "side": "server"
+  }
+]

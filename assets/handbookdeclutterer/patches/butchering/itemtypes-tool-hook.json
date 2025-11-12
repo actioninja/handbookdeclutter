@@ -1,0 +1,14 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": {
+      "handbook": {
+        "groupBy": ["hook-*"]
+      }
+    },
+    "file": "butchering:itemtypes/tool/hook.json",
+    "dependsOn": [{ "modid": "butchering" }],
+    "side": "server"
+  }
+]

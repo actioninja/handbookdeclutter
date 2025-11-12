@@ -1,0 +1,11 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["fa-dynasties-head-*-{type}-*"],
+    "file": "fadynasties:itemtypes/wearable/dynasties/fa-dynasties-head.json",
+    "dependsOn": [{"modid": "fadynasties"}],
+    "side": "server"
+  }
+
+]

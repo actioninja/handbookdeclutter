@@ -1,0 +1,10 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["loghalf-*"],
+    "file": "bradycrudebuilding:blocktypes/wood/typed/log-half-corner.json",
+    "dependsOn": [{ "modid": "bradycrudebuilding" }],
+    "side": "server"
+  }
+]

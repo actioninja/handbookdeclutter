@@ -1,0 +1,10 @@
+[
+  {
+		"op": "addMerge",
+		"path": "/attributes",
+		"file": "viesblocks:blocktypes/chimney/brickclaychimney.json",
+		"value": { "handbook": { "groupBy": ["brickclaychimney-*"] } },
+		"dependsOn": [{"modid": "viesblocks"}],
+    "side": "server"
+	}
+]

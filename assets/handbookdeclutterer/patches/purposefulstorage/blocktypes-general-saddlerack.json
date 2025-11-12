@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupBy": ["saddlerack-*"] } },
+    "file": "purposefulstorage:blocktypes/general/saddlerack.json",
+    "dependsOn": [{ "modid": "purposefulstorage" }],
+    "side": "server"
+  }
+]

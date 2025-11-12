@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupBy": ["wildseeds-*"] } },
+    "file": "wildfarming:itemtypes/wildseeds-bigberrybush.json",
+    "dependsOn": [{ "modid": "wildfarming" }],
+    "side": "server"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook",
+    "value": { "groupBy": ["sling-*"] },
+    "file": "game:itemtypes/combatoverhaul/sling.json",
+    "dependsOn": [{ "modid": "combatoverhaul" }],
+    "side": "server"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": {
+      "handbook": {
+        "groupBy": ["smokingrack-*"]
+      }
+    },
+    "file": "butchering:blocktypes/smokingrack.json",
+    "dependsOn": [{ "modid": "butchering" }],
+    "side": "server"
+  }
+]

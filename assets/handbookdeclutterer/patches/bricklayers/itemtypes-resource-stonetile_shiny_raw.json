@@ -1,0 +1,10 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["stonerawtileshiny-*"],
+    "file": "bricklayers:itemtypes/resource/stonetile_shiny_raw.json",
+    "dependsOn": [{ "modid": "bricklayers" }],
+    "side": "server"
+  }
+]

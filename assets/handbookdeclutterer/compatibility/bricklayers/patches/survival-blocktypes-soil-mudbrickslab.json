@@ -1,0 +1,39 @@
+[
+  {
+    "op": "addmerge",
+    "path": "/attributes",
+    "value": {
+	"canChisel": true,
+	"chiselShapeFromCollisionBox": true,
+	"chiselShapeFromCollisionBox": false
+    },
+    "file": "game:blocktypes/soil/mudbrickslab.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/textures/inside-down",
+    "value": { "base": "game:block/soil/mudbrickslabs/top" },
+    "file": "game:blocktypes/soil/mudbrickslab.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/texturesByType",
+    "value": {
+	    "mudbrickslab-light-*": {
+		"horizontals": { "base": "bricklayers:block/soil/mudbrickslabs/side-light" },
+		"up": { "base": "bricklayers:block/soil/mudbrickslabs/top-light" }
+	    }
+    },
+    "file": "game:blocktypes/soil/mudbrickslab.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "light",
+    "file": "game:blocktypes/soil/mudbrickslab.json",
+    "side": "Server"
+  }
+]

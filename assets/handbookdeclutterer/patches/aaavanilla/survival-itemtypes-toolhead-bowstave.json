@@ -1,0 +1,9 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook",
+    "value": { "groupBy": ["bowstave-*"] },
+    "file": "game:itemtypes/toolhead/bowstave.json",
+    "side": "server"
+  }
+]

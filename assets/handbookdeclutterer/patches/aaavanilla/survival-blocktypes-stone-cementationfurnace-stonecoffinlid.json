@@ -1,0 +1,9 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupBy": ["stonecoffinlid-*"] } },
+    "file": "game:blocktypes/stone/cementationfurnace/stonecoffinlid.json",
+    "side": "server"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook",
+    "value": { "groupBy": ["club-*"] },
+    "file": "game:itemtypes/combatoverhaul/scrap/mace.json",
+    "dependsOn": [{ "modid": "combatoverhaul" }],
+    "side": "server"
+  }
+]

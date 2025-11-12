@@ -1,0 +1,14 @@
+[
+  {
+    "op": "addmerge",
+    "path": "/attributes/handbook/extraSections",
+    "value":  [
+      {
+        "title": "indappledgroves:block-handbooktitle-supportbeam",
+        "text": "indappledgroves:block-handbooktext-supportbeam"
+      }
+    ],
+     "file": "game:blocktypes/wood/woodtyped/suppportbeam.json",
+     "side": "server"
+  }
+]

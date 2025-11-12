@@ -1,0 +1,18 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "file": "xrowboat:itemtypes/rowboat.json",
+    "value": {},
+    "dependsOn": [{"modid": "xrowboat"}],
+    "side": "server"
+  },
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook",
+    "file": "xrowboat:itemtypes/rowboat.json",
+    "value": { "groupBy": ["xrowboat-*"] },
+    "dependsOn": [{"modid": "xrowboat"}],
+    "side": "server"
+  }
+]

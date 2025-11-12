@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupBy": ["necklacestand-*"] } },
+    "file": "purposefulstorage:blocktypes/clothes/necklacestand.json",
+    "dependsOn": [{ "modid": "purposefulstorage" }],
+    "side": "server"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": {
+      "handbook": {
+        "groupBy": ["DoorlessCabinet-*"]
+      }
+    },
+    "file": "kevinsfurniture:blocktypes/containers/doorlesscabinet.json",
+    "dependsOn": [{ "modid": "kevinsfurniture" }],
+    "side": "server"
+  }
+]

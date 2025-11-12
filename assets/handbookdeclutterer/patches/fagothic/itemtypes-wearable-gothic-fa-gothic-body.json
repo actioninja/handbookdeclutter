@@ -1,0 +1,11 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["fa-gothic-body-*"],
+    "file": "fagothic:itemtypes/wearable/gothic/fa-gothic-body.json",
+    "dependsOn": [{"modid": "fagothic"}],
+    "side": "server"
+  }
+
+]

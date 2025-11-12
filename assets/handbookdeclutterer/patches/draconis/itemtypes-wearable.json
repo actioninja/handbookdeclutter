@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook",
+    "value": { "groupBy": ["wearable-{type}-*"] },
+    "file": "draconis:itemtypes/wearable.json",
+    "dependsOn": [{ "modid": "draconis" }],
+    "side": "server"
+  }
+]

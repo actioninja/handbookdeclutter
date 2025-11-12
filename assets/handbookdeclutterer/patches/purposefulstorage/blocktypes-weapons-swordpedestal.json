@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupBy": ["swordpedestal-*"] } },
+    "file": "purposefulstorage:blocktypes/weapons/swordpedestal.json",
+    "dependsOn": [{ "modid": "purposefulstorage" }],
+    "side": "server"
+  }
+]

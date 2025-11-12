@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupBy": ["heraldryworkbench-*"] } },
+    "file": "heraldry:blocktypes/heraldryworkbench.json",
+    "dependsOn": [{ "modid": "heraldry" }],
+    "side": "server"
+  }
+]

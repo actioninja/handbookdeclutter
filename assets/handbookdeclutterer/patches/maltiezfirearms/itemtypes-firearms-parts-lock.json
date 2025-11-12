@@ -1,0 +1,16 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": {
+      "handbook": {
+        "groupByByType": {
+          "*": ["lock-{type}-*"],
+        }
+      }
+    },
+    "file": "maltiezfirearms:itemtypes/firearms/parts/lock.json",
+    "dependsOn": [{ "modid": "maltiezfirearms" }],
+    "side": "server"
+  }
+]

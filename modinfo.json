@@ -1,0 +1,12 @@
+{
+  "type": "content",
+  "side": "server",
+  "name": "Handbook Declutterer",
+  "modid": "handbookdeclutterer",
+  "version": "0.1",
+  "description": "Massive set of fixes and patches to better group items in the handbook",
+  "authors": ["actioninja", "Craluminum2413"],
+  "dependencies": {
+    "game": "1.21.0"
+  }
+}

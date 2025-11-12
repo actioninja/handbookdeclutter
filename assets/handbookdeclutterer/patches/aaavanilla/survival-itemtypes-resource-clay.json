@@ -1,0 +1,9 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook",
+    "value": { "groupBy": ["clay-*"] },
+    "file": "game:itemtypes/resource/clay.json",
+    "side": "server"
+  }
+]

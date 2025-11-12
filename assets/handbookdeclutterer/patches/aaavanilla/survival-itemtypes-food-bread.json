@@ -1,0 +1,9 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook",
+    "value": { "groupBy": ["bread-*"] },
+    "file": "game:itemtypes/food/bread.json",
+    "side": "server"
+  }
+]

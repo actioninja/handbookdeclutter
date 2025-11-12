@@ -1,0 +1,16 @@
+[
+  {
+     "op": "addmerge",
+     "path": "/attributes/handbook",
+     "value": {
+      "extraSections": [
+        {
+          "title": "indappledgroves:item-handbooktitle-stick",
+          "text": "indappledgroves:item-handbooktext-stick"
+        }
+      ]
+     },
+     "file": "game:itemtypes/resource/stick.json",
+     "side": "server"
+   }
+]

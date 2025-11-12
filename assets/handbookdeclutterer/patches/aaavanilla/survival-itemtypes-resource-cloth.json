@@ -1,0 +1,9 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook",
+    "value": { "groupBy": ["cloth-*"] },
+    "file": "game:itemtypes/resource/cloth.json",
+    "side": "server"
+  }
+]

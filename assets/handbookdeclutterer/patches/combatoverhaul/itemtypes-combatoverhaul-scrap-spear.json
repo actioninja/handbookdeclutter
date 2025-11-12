@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook",
+    "value": { "groupBy": ["spear-*"] },
+    "file": "game:itemtypes/combatoverhaul/scrap/spear.json",
+    "dependsOn": [{ "modid": "combatoverhaul" }],
+    "side": "server"
+  }
+]

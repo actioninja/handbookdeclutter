@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupBy": ["woodentoggle-*"] } },
+    "file": "vanvar:blocktypes/wood/mechanics/woodentoggle.json",
+    "dependsOn": [{ "modid": "vanvar" }],
+    "side": "server"
+  }
+]

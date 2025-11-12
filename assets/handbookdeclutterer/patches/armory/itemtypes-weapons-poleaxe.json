@@ -1,0 +1,10 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["poleaxe-*"],
+    "file": "armory:itemtypes/weapons/poleaxe.json",
+    "dependsOn": [{ "modid": "armory" }],
+    "side": "server"
+  }
+]

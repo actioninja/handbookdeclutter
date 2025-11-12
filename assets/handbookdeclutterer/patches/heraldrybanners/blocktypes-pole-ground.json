@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupBy": ["pole-banner-ground*"] } },
+    "file": "heraldrybanners:blocktypes/pole-ground.json",
+    "dependsOn": [{ "modid": "heraldrybanners" }],
+    "side": "server"
+  }
+]

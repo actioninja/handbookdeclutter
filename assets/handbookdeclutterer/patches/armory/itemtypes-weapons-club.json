@@ -1,0 +1,10 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["club-*"],
+    "file": "armory:itemtypes/weapons/club.json",
+    "dependsOn": [{ "modid": "armory" }],
+    "side": "server"
+  }
+]

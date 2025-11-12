@@ -1,0 +1,12 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupByByType":{
+      "*": ["handle-{length}"]
+    } } },
+    "file": "armory:itemtypes/handle.json",
+    "dependsOn": [{ "modid": "armory" }],
+    "side": "server"
+  }
+]

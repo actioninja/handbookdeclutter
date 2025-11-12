@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupBy": ["buoylantern-*"] } },
+    "file": "wwaymarkers:blocktypes/buoylantern.json",
+    "dependsOn": [{ "modid": "wwaymarkers" }],
+    "side": "server"
+  }
+]

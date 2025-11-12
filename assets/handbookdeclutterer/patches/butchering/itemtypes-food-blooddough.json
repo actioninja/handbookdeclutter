@@ -1,0 +1,12 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook",
+    "value": {
+      "groupBy": ["blooddough-*"]
+    },
+    "file": "butchering:itemtypes/food/blooddough.json",
+    "dependsOn": [{ "modid": "butchering" }],
+    "side": "server"
+  }
+]

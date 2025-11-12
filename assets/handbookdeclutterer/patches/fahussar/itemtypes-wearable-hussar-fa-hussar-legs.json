@@ -1,0 +1,11 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["fa-hussar-legs-*-{version}-*"],
+    "file": "fahussar:itemtypes/wearable/hussar/fa-hussar-legs.json",
+    "dependsOn": [{"modid": "fahussar"}],
+    "side": "server"
+  }
+
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["beeframe-*"],
+    "file": "fromgoldencombs:itemtypes/beeframe.json",
+    "dependsOn": [{ "modid": "fromgoldencombs" }],
+    "side": "server"
+  }
+]

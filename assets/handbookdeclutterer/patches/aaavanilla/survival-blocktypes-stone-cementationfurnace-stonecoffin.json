@@ -1,0 +1,9 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributesByType/@(.*)-(north|east)/handbook",
+    "value": { "groupBy": ["stonecoffinsection-*"] },
+    "file": "game:blocktypes/stone/cementationfurnace/stonecoffin.json",
+    "side": "server"
+  }
+]

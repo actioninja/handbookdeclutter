@@ -1,0 +1,15 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": {
+      "handbook": {
+        "groupByByType": {
+          "*": ["metalblock-{state}-{type}-*"],
+        }
+      }
+    },
+    "file": "game:blocktypes/metal/metalblock.json",
+    "side": "server"
+  }
+]

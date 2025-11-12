@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupBy": ["displaycase-*"] } },
+    "file": "vanvar:blocktypes/displaycase.json",
+    "dependsOn": [{ "modid": "vanvar" }],
+    "side": "server"
+  }
+]

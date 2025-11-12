@@ -1,0 +1,9 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook",
+    "value": { "groupBy": ["jonas-lamp"] },
+    "file": "game:blocktypes/machine/jonas/jonaslamp.json",
+    "side": "server"
+  }
+]

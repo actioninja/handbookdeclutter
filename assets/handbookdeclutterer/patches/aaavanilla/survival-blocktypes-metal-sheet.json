@@ -1,0 +1,9 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["metalsheet-*"],
+    "file": "game:blocktypes/metal/sheet.json",
+    "side": "server"
+  }
+]

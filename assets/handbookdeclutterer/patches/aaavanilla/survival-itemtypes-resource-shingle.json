@@ -1,0 +1,9 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook",
+    "value": { "groupBy": ["shingle-*"] },
+    "file": "game:itemtypes/resource/shingle.json",
+    "side": "server"
+  }
+]

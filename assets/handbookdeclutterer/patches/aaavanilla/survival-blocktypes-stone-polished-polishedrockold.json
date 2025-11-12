@@ -1,0 +1,13 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": {
+      "groupByByType":{
+        "*": ["polishedrockold-{type}-*"],
+      }
+    } },
+    "file": "game:blocktypes/stone/polished/polishedrockold.json",
+    "side": "server"
+  }
+]

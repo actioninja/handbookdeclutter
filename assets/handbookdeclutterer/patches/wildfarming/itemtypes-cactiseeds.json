@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes",
+    "value": { "handbook": { "groupBy": ["wildseeds-*"] } },
+    "file": "wildfarming:itemtypes/cactiseeds.json",
+    "dependsOn": [{ "modid": "wildfarming" }],
+    "side": "server"
+  }
+]

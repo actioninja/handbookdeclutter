@@ -1,0 +1,109 @@
+[
+  {
+    "op": "addmerge",
+    "path": "/attributes",
+    "value": {
+	"canChisel": true,
+	"chiselShapeFromCollisionBox": true,
+	"chiselShapeFromCollisionBox": false
+    },
+    "file": "game:blocktypes/glass/slab-colored.json",
+    "side": "Server"
+  },
+  {
+    "op": "remove",
+    "path": "/textures",
+    "file": "game:blocktypes/glass/slab-colored.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/texturesByType",
+    "_comment": "v1.15: {color} does not work for inside-* :-(",
+    "value": {
+	"*-green-*": {
+		"material": { "base": "game:block/glass/green" },
+		"inside-north": { "base": "game:block/glass/green" },
+		"inside-east": { "base": "game:block/glass/green" },
+		"inside-south": { "base": "game:block/glass/green" },
+		"inside-west": { "base": "game:block/glass/green" },
+		"inside-up": { "base": "game:block/glass/green" },
+		"inside-down": { "base": "game:block/glass/green" }
+	},
+	"*-blue-*": {
+		"material": { "base": "game:block/glass/blue" },
+		"inside-north": { "base": "game:block/glass/blue" },
+		"inside-east": { "base": "game:block/glass/blue" },
+		"inside-south": { "base": "game:block/glass/blue" },
+		"inside-west": { "base": "game:block/glass/blue" },
+		"inside-up": { "base": "game:block/glass/blue" },
+		"inside-down": { "base": "game:block/glass/blue" }
+	},
+	"*-violet-*": {
+		"material": { "base": "game:block/glass/violet" },
+		"inside-north": { "base": "game:block/glass/violet" },
+		"inside-east": { "base": "game:block/glass/violet" },
+		"inside-south": { "base": "game:block/glass/violet" },
+		"inside-west": { "base": "game:block/glass/violet" },
+		"inside-up": { "base": "game:block/glass/violet" },
+		"inside-down": { "base": "game:block/glass/violet" }
+	},
+	"*-red-*": {
+		"material": { "base": "game:block/glass/red" },
+		"inside-north": { "base": "game:block/glass/red" },
+		"inside-east": { "base": "game:block/glass/red" },
+		"inside-south": { "base": "game:block/glass/red" },
+		"inside-west": { "base": "game:block/glass/red" },
+		"inside-up": { "base": "game:block/glass/red" },
+		"inside-down": { "base": "game:block/glass/red" }
+	},
+	"*-yellow-*": {
+		"material": { "base": "game:block/glass/yellow" },
+		"inside-north": { "base": "game:block/glass/yellow" },
+		"inside-east": { "base": "game:block/glass/yellow" },
+		"inside-south": { "base": "game:block/glass/yellow" },
+		"inside-west": { "base": "game:block/glass/yellow" },
+		"inside-up": { "base": "game:block/glass/yellow" },
+		"inside-down": { "base": "game:block/glass/yellow" }
+	},
+	"*-brown-*": {
+		"material": { "base": "game:block/glass/brown" },
+		"inside-north": { "base": "game:block/glass/brown" },
+		"inside-east": { "base": "game:block/glass/brown" },
+		"inside-south": { "base": "game:block/glass/brown" },
+		"inside-west": { "base": "game:block/glass/brown" },
+		"inside-up": { "base": "game:block/glass/brown" },
+		"inside-down": { "base": "game:block/glass/brown" }
+	},
+	"*-vintage-*": {
+		"material": { "base": "game:block/glass/vintage" },
+		"inside-north": { "base": "game:block/glass/vintage" },
+		"inside-east": { "base": "game:block/glass/vintage" },
+		"inside-south": { "base": "game:block/glass/vintage" },
+		"inside-west": { "base": "game:block/glass/vintage" },
+		"inside-up": { "base": "game:block/glass/vintage" },
+		"inside-down": { "base": "game:block/glass/vintage" }
+	},
+	"*-smoky-*": {
+		"material": { "base": "game:block/glass/smoky" },
+		"inside-north": { "base": "game:block/glass/smoky" },
+		"inside-east": { "base": "game:block/glass/smoky" },
+		"inside-south": { "base": "game:block/glass/smoky" },
+		"inside-west": { "base": "game:block/glass/smoky" },
+		"inside-up": { "base": "game:block/glass/smoky" },
+		"inside-down": { "base": "game:block/glass/smoky" }
+	},
+	"*-pink-*": {
+		"material": { "base": "game:block/glass/pink" },
+		"inside-north": { "base": "game:block/glass/pink" },
+		"inside-east": { "base": "game:block/glass/pink" },
+		"inside-south": { "base": "game:block/glass/pink" },
+		"inside-west": { "base": "game:block/glass/pink" },
+		"inside-up": { "base": "game:block/glass/pink" },
+		"inside-down": { "base": "game:block/glass/pink" }
+	}
+    },
+    "file": "game:blocktypes/glass/slab-colored.json",
+    "side": "Server"
+  }
+]
