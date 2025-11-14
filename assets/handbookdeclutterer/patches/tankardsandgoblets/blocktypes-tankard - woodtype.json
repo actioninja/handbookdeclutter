@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook",
+    "value": {"groupBy": ["tankard-woodtype-*"] },
+    "file": "tankardsandgoblets:blocktypes/tankard - woodtype.json",
+    "dependsOn": [{ "modid": "tankardsandgoblets" }],
+    "side": "server"
+  }
+]

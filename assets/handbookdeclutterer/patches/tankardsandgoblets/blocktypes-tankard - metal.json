@@ -1,0 +1,10 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/handbook",
+    "value": { "groupBy": ["tankard-metal-*"] },
+    "file": "tankardsandgoblets:blocktypes/tankard - metal.json",
+    "dependsOn": [{ "modid": "tankardsandgoblets" }],
+    "side": "server"
+  }
+]

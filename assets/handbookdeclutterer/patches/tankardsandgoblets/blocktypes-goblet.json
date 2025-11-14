@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook",
+    "value": { "groupBy":["goblet-*"] },
+    "file": "tankardsandgoblets:blocktypes/goblet.json",
+    "dependsOn": [{ "modid": "tankardsandgoblets" }],
+    "side": "server"
+  }
+]

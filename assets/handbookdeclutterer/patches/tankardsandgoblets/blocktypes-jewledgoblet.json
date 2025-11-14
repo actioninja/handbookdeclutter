@@ -1,0 +1,10 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["goblet-*"],
+    "file": "tankardsandgoblets:blocktypes/jeweledgoblet.json",
+    "dependsOn": [{ "modid": "tankardsandgoblets" }],
+    "side": "server"
+  }
+]
