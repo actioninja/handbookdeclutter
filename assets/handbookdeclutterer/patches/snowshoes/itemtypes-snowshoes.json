@@ -1,0 +1,26 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributesByType/snowshoes-*-plain-*/handbook",
+    "value": { "groupBy": ["snowshoes-*-*-plain-*"] },
+    "file": "snowshoes:itemtypes/snowshoes.json",
+    "dependsOn": [{ "modid": "snowshoes" }],
+    "side": "server"
+  },
+  {
+    "op": "addMerge",
+    "path": "/attributesByType/@snowshoes-.*-(fur|nadiyan.*)-.*/handbook",
+    "value": { "groupBy": ["snowshoes-*-*-fur-*", "snowshoes-*-*-nadiyan*-*", "snowshoes-*-*-reindeer-*"] },
+    "file": "snowshoes:itemtypes/snowshoes.json",
+    "dependsOn": [{ "modid": "snowshoes" }],
+    "side": "server"
+  },
+  {
+    "op": "addMerge",
+    "path": "/attributesByType/snowshoes-*-reindeer-*/handbook",
+    "value": { "groupBy": ["snowshoes-*-*-fur-*", "snowshoes-*-*-nadiyan*-*", "snowshoes-*-*-reindeer-*"] },
+    "file": "snowshoes:itemtypes/snowshoes.json",
+    "dependsOn": [{ "modid": "snowshoes" }],
+    "side": "server"
+  }
+]
