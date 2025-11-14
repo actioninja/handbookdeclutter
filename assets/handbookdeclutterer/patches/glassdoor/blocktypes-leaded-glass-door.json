@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["leaded-glass-door-*"],
+    "file": "glassdoors:blocktypes/leaded-glass-door.json",
+    "dependsOn": [{ "modid": "glassdoor" }],
+    "side": "server"
+  }
+]

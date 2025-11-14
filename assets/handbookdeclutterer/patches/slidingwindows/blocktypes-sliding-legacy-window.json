@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["sliding-window-*"],
+    "file": "slidingwindows:blocktypes/sliding/legacy-window.json",
+    "dependsOn": [{ "modid": "slidingwindows" }],
+    "side": "server"
+  }
+]

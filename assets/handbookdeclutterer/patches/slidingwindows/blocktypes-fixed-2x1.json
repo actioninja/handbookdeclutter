@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["fixed-2x1-*"],
+    "file": "slidingwindows:blocktypes/fixed/2x1.json",
+    "dependsOn": [{ "modid": "slidingwindows" }],
+    "side": "server"
+  }
+]

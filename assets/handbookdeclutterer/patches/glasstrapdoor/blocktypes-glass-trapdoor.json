@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["glass-trapdoor-*"],
+    "file": "glasstrapdoor:blocktypes/glass/trapdoor.json",
+    "dependsOn": [{ "modid": "glasstrapdoor" }],
+    "side": "server"
+  }
+]

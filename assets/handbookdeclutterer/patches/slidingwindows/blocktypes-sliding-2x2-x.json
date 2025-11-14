@@ -1,0 +1,10 @@
+[
+  {
+    "op": "addMerge",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["sliding-2x2-x-*"],
+    "file": "slidingwindows:blocktypes/sliding/2x2-x.json",
+    "dependsOn": [{ "modid": "slidingwindows" }],
+    "side": "server"
+  }
+]
