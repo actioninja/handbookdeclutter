@@ -1,6 +1,6 @@
 [
   {
-    "op": "replace",
+    "op": "addMerge",
     "path": "/attributes/handbook",
     "value": { "groupBy": ["tankard-metal-*"] },
     "file": "tankardsandgoblets:blocktypes/tankard - metal.json",

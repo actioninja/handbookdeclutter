@@ -1,0 +1,10 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["claycup-*"],
+    "file": "daymarescupmod:blocktypes/cups/claycup.json",
+    "dependsOn": [{ "modid": "daymarescupmod" }],
+    "side": "server"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["wineglass-*"],
+    "file": "daymarescupmod:blocktypes/cups/wineglass.json",
+    "dependsOn": [{ "modid": "daymarescupmod" }],
+    "side": "server"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/handbook/groupBy",
+    "value": ["tankard-*"],
+    "file": "daymarescupmod:blocktypes/cups/tankard.json",
+    "dependsOn": [{ "modid": "daymarescupmod" }],
+    "side": "server"
+  }
+]
